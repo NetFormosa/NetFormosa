@@ -8,7 +8,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=NetFormosa&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 <img src="https://img.shields.io/badge/Made%20in-Taiwan%20🇹🇼-0e75b6?style=for-the-badge" alt="Made in Taiwan" />
-<img src="https://img.shields.io/badge/Project-Railway%20Map%20Designer-0e75b6?style=for-the-badge" alt="Railway Map Designer" />
+<img src="https://img.shields.io/badge/Project-NFDesigner-0e75b6?style=for-the-badge" alt="NFDesigner" />
 
 </div>
 
@@ -16,13 +16,9 @@
 
 ## 🧭 About Us
 
-We're a small team based in **Taiwan 🇹🇼**, passionate about railways, maps, and good design.
+A team from **Taiwan 🇹🇼**, building **[NFDesigner](https://github.com/NetFormosa)** — a railway map design tool.
 
-- 🚆 Currently building **[NFDesigner](https://github.com/NetFormosa)** — a railway map design tool
-- 🎯 Focused on making transit maps clearer, more accurate, and easier to design
-- 🌱 Working across web, mobile, and game dev to bring NFDesigner to life
-- 💬 Ask us about Android, Python, or Unity
-- 📫 Reach us at **s.netformosa@gmail.com**
+📫 **s.netformosa@gmail.com**
 
 <br/>
 
