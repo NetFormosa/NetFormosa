@@ -40,6 +40,15 @@ We're a small team based in **Taiwan 🇹🇼**, passionate about railways, maps
 
 <br/>
 
+## 📊 GitHub Stats
+
+<div align="center">
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=NetFormosa&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="NetFormosa's GitHub stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=NetFormosa&layout=compact&locale=en&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<br/>
+
 ## 🤝 Connect with Me
 
 <div align="center">
