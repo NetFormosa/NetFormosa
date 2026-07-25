@@ -53,10 +53,10 @@ We're a small team based in **Taiwan 🇹🇼**, passionate about railways, maps
 
 <div align="center">
 <a href="https://github.com/NetFormosa" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="NetFormosa GitHub" height="35" width="45" />
+  <img src="https://img.shields.io/badge/GitHub-NetFormosa-181717?style=for-the-badge&logo=github&logoColor=white" alt="NetFormosa GitHub" />
 </a>
 <a href="mailto:s.netformosa@gmail.com" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email NetFormosa" height="35" width="45" />
+  <img src="https://img.shields.io/badge/Email-s.netformosa%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email NetFormosa" />
 </a>
 </div>
 
