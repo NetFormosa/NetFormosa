@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm NetFormosa 👋
+# Hi there, We're NetFormosa 👋
 
 ### 🚀 Connecting every journey.
 
