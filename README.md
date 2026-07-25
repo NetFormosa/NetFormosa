@@ -26,16 +26,6 @@ We're a small team based in **Taiwan 🇹🇼**, passionate about railways, maps
 
 <br/>
 
-## 🏆 Trophies
-
-<div align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=NetFormosa&theme=onedark&column=7&margin-w=10&margin-h=10" alt="NetFormosa's GitHub Trophies" />
-</a>
-</div>
-
-<br/>
-
 ## 🛠️ Languages & Tools
 
 <div align="center">
@@ -46,19 +36,6 @@ We're a small team based in **Taiwan 🇹🇼**, passionate about railways, maps
 <a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="45" height="45"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" alt="python" width="45" height="45"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=unity" alt="unity" width="45" height="45"/></a>
-</div>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=NetFormosa&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="NetFormosa's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NetFormosa&layout=compact&locale=en&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NetFormosa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
