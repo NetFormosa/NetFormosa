@@ -6,6 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=A+Team+from+Taiwan+%F0%9F%87%B9%F0%9F%87%BC;Building+NFDesigner+%F0%9F%9A%86;A+Railway+Map+Designer" alt="Typing SVG" />
 
+
 <img src="https://img.shields.io/badge/Made%20in-Taiwan%20🇹🇼-0e75b6?style=for-the-badge" alt="Made in Taiwan" />
 <img src="https://img.shields.io/badge/Project-NFDesigner-0e75b6?style=for-the-badge" alt="NFDesigner" />
 
